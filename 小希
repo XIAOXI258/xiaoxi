@@ -1,0 +1,1417 @@
+local FUCK = {
+	FUCK = Instance.new("ScreenGui"),
+	WOSHIHONG = Instance.new("Frame"),
+	FUCKNOOB = Instance.new("TextButton"),
+	UICorner = Instance.new("UICorner"),
+	WDNMD = Instance.new("TextLabel"),
+	UICorner_2 = Instance.new("UICorner"),
+	ZHH = Instance.new("ScrollingFrame"),
+	UICorner_3 = Instance.new("UICorner"),
+	UIListLayout = Instance.new("UIListLayout"),
+	A = Instance.new("TextButton"),
+	UICorner_4 = Instance.new("UICorner"),
+	AA = Instance.new("TextButton"),
+	UICorner_5 = Instance.new("UICorner"),
+	AAA = Instance.new("TextButton"),
+	UICorner_6 = Instance.new("UICorner"),
+	AAAAA = Instance.new("TextButton"),
+	UICorner_7 = Instance.new("UICorner"),
+	AAAA = Instance.new("TextButton"),
+	UICorner_8 = Instance.new("UICorner"),
+	AAAAAA = Instance.new("TextButton"),
+	UICorner_9 = Instance.new("UICorner"),
+	AAAAAAAA = Instance.new("TextButton"),
+	UICorner_10 = Instance.new("UICorner"),
+	AAAAAAA = Instance.new("TextButton"),
+	UICorner_11 = Instance.new("UICorner"),
+	AAAAAAAAA = Instance.new("TextButton"),
+	UICorner_12 = Instance.new("UICorner"),
+	AAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_13 = Instance.new("UICorner"),
+	AAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_14 = Instance.new("UICorner"),
+	AAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_15 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_16 = Instance.new("UICorner"),
+	AAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_17 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_18 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_19 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_20 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_21 = Instance.new("UICorner"),
+	AAAAAAAAAAAAAAAAAA = Instance.new("TextButton"),
+	UICorner_22 = Instance.new("UICorner"),
+	S = Instance.new("TextButton"),
+	UICorner_23 = Instance.new("UICorner"),
+	SS = Instance.new("TextButton"),
+	UICorner_24 = Instance.new("UICorner"),
+	SSS = Instance.new("TextButton"),
+	UICorner_25 = Instance.new("UICorner"),
+	SSSS = Instance.new("TextButton"),
+	UICorner_26 = Instance.new("UICorner"),
+	SSSSSS = Instance.new("TextButton"),
+	UICorner_27 = Instance.new("UICorner"),
+	SSSSS = Instance.new("TextButton"),
+	UICorner_28 = Instance.new("UICorner"),
+	SSSSSSS = Instance.new("TextButton"),
+	UICorner_29 = Instance.new("UICorner"),
+	SSSSSSSSS = Instance.new("TextButton"),
+	UICorner_30 = Instance.new("UICorner"),
+	SSSSSSSS = Instance.new("TextButton"),
+	UICorner_31 = Instance.new("UICorner"),
+	SSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_32 = Instance.new("UICorner"),
+	SSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_33 = Instance.new("UICorner"),
+	SSSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_34 = Instance.new("UICorner"),
+	SSSSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_35 = Instance.new("UICorner"),
+	SSSSSSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_36 = Instance.new("UICorner"),
+	SSSSSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_37 = Instance.new("UICorner"),
+	SSSSSSSSSSSSSSSS = Instance.new("TextButton"),
+	UICorner_38 = Instance.new("UICorner"),
+	BB = Instance.new("TextButton"),
+	UICorner_39 = Instance.new("UICorner"),
+	B = Instance.new("TextButton"),
+	UICorner_40 = Instance.new("UICorner"),
+	BBB = Instance.new("TextButton"),
+	UICorner_41 = Instance.new("UICorner"),
+	BBBB = Instance.new("TextButton"),
+	UICorner_42 = Instance.new("UICorner"),
+	BBBBB = Instance.new("TextButton"),
+	UICorner_43 = Instance.new("UICorner"),
+	BBBBBB = Instance.new("TextButton"),
+	UICorner_44 = Instance.new("UICorner"),
+	BBBBBBBB = Instance.new("TextButton"),
+	UICorner_45 = Instance.new("UICorner"),
+	BBBBBBB = Instance.new("TextButton"),
+	UICorner_46 = Instance.new("UICorner"),
+	BBBBBBBBB = Instance.new("TextButton"),
+	UICorner_47 = Instance.new("UICorner"),
+	BBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_48 = Instance.new("UICorner"),
+	BBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_49 = Instance.new("UICorner"),
+	BBBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_50 = Instance.new("UICorner"),
+	BBBBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_51 = Instance.new("UICorner"),
+	BBBBBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_52 = Instance.new("UICorner"),
+	BBBBBBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_53 = Instance.new("UICorner"),
+	Z = Instance.new("TextButton"),
+	UICorner_54 = Instance.new("UICorner"),
+	BBBBBBBBBBBBBBBB = Instance.new("TextButton"),
+	UICorner_55 = Instance.new("UICorner"),
+	ZZ = Instance.new("TextButton"),
+	UICorner_56 = Instance.new("UICorner"),
+	ZZZZ = Instance.new("TextButton"),
+	UICorner_57 = Instance.new("UICorner"),
+	ZZZ = Instance.new("TextButton"),
+	UICorner_58 = Instance.new("UICorner"),
+	ZZZZZ = Instance.new("TextButton"),
+	UICorner_59 = Instance.new("UICorner"),
+	ZZZZZZZ = Instance.new("TextButton"),
+	UICorner_60 = Instance.new("UICorner"),
+	ZZZZZZ = Instance.new("TextButton"),
+	UICorner_61 = Instance.new("UICorner"),
+	ZZZZZZZZ = Instance.new("TextButton"),
+	UICorner_62 = Instance.new("UICorner"),
+	ZZZZZZZZZZ = Instance.new("TextButton"),
+	UICorner_63 = Instance.new("UICorner"),
+	ZZZZZZZZZ = Instance.new("TextButton"),
+	UICorner_64 = Instance.new("UICorner"),
+	H = Instance.new("TextButton"),
+	UICorner_65 = Instance.new("UICorner"),
+	HH = Instance.new("TextButton"),
+	UICorner_66 = Instance.new("UICorner"),
+	HHH = Instance.new("TextButton"),
+	UICorner_67 = Instance.new("UICorner"),
+	HHHH = Instance.new("TextButton"),
+	UICorner_68 = Instance.new("UICorner"),
+	HHHHH = Instance.new("TextButton"),
+	UICorner_69 = Instance.new("UICorner"),
+	HHHHHHH = Instance.new("TextButton"),
+	UICorner_70 = Instance.new("UICorner"),
+	HHHHHHHH = Instance.new("TextButton"),
+	UICorner_71 = Instance.new("UICorner"),
+	HHHHHHHHH = Instance.new("TextButton"),
+	UICorner_72 = Instance.new("UICorner"),
+	U = Instance.new("TextButton"),
+	UICorner_73 = Instance.new("UICorner"),
+	HHHHHHHHHH = Instance.new("TextButton"),
+	UICorner_74 = Instance.new("UICorner"),
+	UU = Instance.new("TextButton"),
+	UICorner_75 = Instance.new("UICorner"),
+	UUUU = Instance.new("TextButton"),
+	UICorner_76 = Instance.new("UICorner"),
+	UUU = Instance.new("TextButton"),
+	UICorner_77 = Instance.new("UICorner"),
+	UUUUU = Instance.new("TextButton"),
+	UICorner_78 = Instance.new("UICorner"),
+	UUUUUUU = Instance.new("TextButton"),
+	UICorner_79 = Instance.new("UICorner"),
+	UUUUUU = Instance.new("TextButton"),
+	UICorner_80 = Instance.new("UICorner"),
+	UUUUUUUU = Instance.new("TextButton"),
+	UICorner_81 = Instance.new("UICorner"),
+	UUUUUUUUUU = Instance.new("TextButton"),
+	UICorner_82 = Instance.new("UICorner"),
+	UUUUUUUUU = Instance.new("TextButton"),
+	UICorner_83 = Instance.new("UICorner"),
+	I = Instance.new("TextButton"),
+	UICorner_84 = Instance.new("UICorner"),
+	III = Instance.new("TextButton"),
+	UICorner_85 = Instance.new("UICorner"),
+	II = Instance.new("TextButton"),
+	UICorner_86 = Instance.new("UICorner"),
+	IIII = Instance.new("TextButton"),
+	UICorner_87 = Instance.new("UICorner"),
+	IIIII = Instance.new("TextButton"),
+	UICorner_88 = Instance.new("UICorner"),
+	IIIIIII = Instance.new("TextButton"),
+	UICorner_89 = Instance.new("UICorner"),
+	IIIIII = Instance.new("TextButton"),
+	UICorner_90 = Instance.new("UICorner"),
+	IIIIIIII = Instance.new("TextButton"),
+	UICorner_91 = Instance.new("UICorner"),
+	IIIIIIIII = Instance.new("TextButton"),
+	UICorner_92 = Instance.new("UICorner"),
+	IIIIIIIII_2 = Instance.new("TextButton"),
+	UICorner_93 = Instance.new("UICorner"),
+	IIIIIIIII_3 = Instance.new("TextButton"),
+	UICorner_94 = Instance.new("UICorner"),
+	IIIIIIIII_4 = Instance.new("TextButton"),
+	UICorner_95 = Instance.new("UICorner"),
+	IIIIIIIII_5 = Instance.new("TextButton"),
+	UICorner_96 = Instance.new("UICorner"),
+	IIIIIIIII_6 = Instance.new("TextButton"),
+	UICorner_97 = Instance.new("UICorner"),
+	IIIIIIIII_7 = Instance.new("TextButton"),
+	UICorner_98 = Instance.new("UICorner"),
+	IIIIIIIII_8 = Instance.new("TextButton"),
+	UICorner_99 = Instance.new("UICorner"),
+	IIIIIIIII_9 = Instance.new("TextButton"),
+	UICorner_100 = Instance.new("UICorner"),
+	IIIIIIIII_10 = Instance.new("TextButton"),
+	UICorner_101 = Instance.new("UICorner"),
+}
+
+FUCK.FUCK.Name = "FUCK"
+FUCK.FUCK.Parent = game.CoreGui
+FUCK.FUCK.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+local WOSHIHONG=FUCK.WOAHIHONG
+FUCK.WOSHIHONG.Name = "WOSHIHONG"
+FUCK.WOSHIHONG.Parent = FUCK.FUCK
+FUCK.WOSHIHONG.BackgroundColor3 = Color3.fromRGB(88, 88, 88)
+FUCK.WOSHIHONG.BorderSizePixel = 0
+FUCK.WOSHIHONG.Position = UDim2.new(0.0223267097, 0, 0.0799031407, 0)
+FUCK.WOSHIHONG.Size = UDim2.new(0.137942895, 0, 0.0699625164, 0)
+FUCK.WOSHIHONG.Active=true
+FUCK.WOSHIHONG.Draggable=true
+FUCK.FUCKNOOB.Name="FUCKNOOB"
+FUCK.FUCKNOOB.Parent=FUCK.WOSHIHONG
+FUCK.FUCKNOOB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.FUCKNOOB.BackgroundTransparency = 1.000
+FUCK.FUCKNOOB.BorderSizePixel = 0
+FUCK.FUCKNOOB.Position = UDim2.new(0.698025823, 0, -7.02109233e-08, 0)
+FUCK.FUCKNOOB.Size = UDim2.new(0.301974237, 0, 1.00000012, 0)
+FUCK.FUCKNOOB.Font = Enum.Font.SourceSans
+FUCK.FUCKNOOB.Text = "+"
+FUCK.FUCKNOOB.TextColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.FUCKNOOB.TextScaled = true
+FUCK.FUCKNOOB.TextSize = 14.000
+FUCK.FUCKNOOB.TextWrapped = true
+
+FUCK.UICorner.Parent = FUCK.WOSHIHONG
+
+FUCK.WDNMD.Name = "WDNMD"
+FUCK.WDNMD.Parent = FUCK.WOSHIHONG
+FUCK.WDNMD.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.WDNMD.BackgroundTransparency = 1.000
+FUCK.WDNMD.BorderSizePixel = 0
+FUCK.WDNMD.Position = UDim2.new(0, 0, -7.28942169e-08, 0)
+FUCK.WDNMD.Size = UDim2.new(0.698025823, 0, 1.00000012, 0)
+FUCK.WDNMD.Font = Enum.Font.SourceSans
+FUCK.WDNMD.Text = "伐木大亨 宝盒"
+FUCK.WDNMD.TextColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.WDNMD.TextScaled = true
+FUCK.WDNMD.TextSize = 14.000
+FUCK.WDNMD.TextWrapped = true
+
+FUCK.UICorner_2.Parent = FUCK.WDNMD
+
+FUCK.ZHH.Name = "ZHH"
+FUCK.ZHH.Parent = FUCK.FUCK
+FUCK.ZHH.Active = true
+FUCK.ZHH.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+FUCK.ZHH.BorderSizePixel = 0
+FUCK.ZHH.Position = UDim2.new(0.0223266706, 0, 0.149758458, 0)
+FUCK.ZHH.Size = UDim2.new(0.13794294, 0, 0.756684482, 0)
+FUCK.ZHH.Visible = false
+FUCK.ZHH.CanvasSize = UDim2.new(0, 0, 10, 0)
+FUCK.ZHH.ScrollBarThickness = 8
+
+FUCK.UICorner_3.CornerRadius = UDim.new(0, 100)
+FUCK.UICorner_3.Parent = FUCK.ZHH
+
+FUCK.UIListLayout.Parent = FUCK.ZHH
+FUCK.UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+FUCK.UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+FUCK.UIListLayout.Padding = UDim.new(0, 10)
+
+FUCK.A.Name = "A"
+FUCK.A.Parent = FUCK.ZHH
+FUCK.A.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.A.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.A.Size = UDim2.new(0, 72, 0, 32)
+FUCK.A.Font = Enum.Font.SourceSans
+FUCK.A.Text = "走马观花"
+FUCK.A.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.A.TextSize = 14.000
+
+FUCK.UICorner_4.Parent=FUCK.A
+FUCK.AA.Name="AA"
+FUCK.AA.Parent=FUCK.ZHH
+FUCK.AA.BackgroundColor3=Color3.fromRGB(255, 255, 255)
+FUCK.AA.Position=UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AA.Size=UDim2.new(0, 72, 0, 32)
+FUCK.AA.Font=Enum.Font.SourceSans
+FUCK.AA.Text="Bark2.0"
+
+FUCK.AA.TextColor3=Color3.fromRGB(0, 0, 0)
+FUCK.AA.TextSize = 14.000
+FUCK.UICorner_5.Parent = FUCK.AA
+FUCK.AAA.Name = "AAA"
+FUCK.AAA.Parent = FUCK.ZHH
+FUCK.AAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAA.Size=UDim2.new(0, 72, 0, 32)
+FUCK.AAA.Font=Enum.Font.SourceSans
+FUCK.AAA.Text="Alpha Drop 2"
+FUCK.AAA.TextColor3=Color3.fromRGB(0, 0, 0)
+FUCK.AAA.TextSize=14.000
+
+FUCK.UICorner_6.Parent = FUCK.AAA
+FUCK.AAAAA.Name = "AAAAA"
+FUCK.AAAAA.Parent = FUCK.ZHH
+FUCK.AAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAA.Text = "hannyonms"
+FUCK.AAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAA.TextSize = 14.000
+
+FUCK.UICorner_7.Parent = FUCK.AAAAA
+FUCK.AAAA.Name = "AAAA"
+FUCK.AAAA.Parent = FUCK.ZHH
+FUCK.AAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAA.Font = Enum.Font.SourceSans
+FUCK.AAAA.Text = "极限复制2"
+FUCK.AAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAA.TextSize = 14.000
+
+FUCK.UICorner_8.Parent = FUCK.AAAA
+FUCK.AAAAAA.Name = "AAAAAA"
+FUCK.AAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAA.Text = "飞行脚本"
+FUCK.AAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAA.TextSize = 14.000
+
+FUCK.UICorner_9.Parent = FUCK.AAAAAA
+FUCK.AAAAAAAA.Name = "AAAAAAAA"
+FUCK.AAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAA.Text = "LT2 FERRY"
+FUCK.AAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAA.TextSize = 14.000
+FUCK.UICorner_10.Parent = FUCK.AAAAAAAA
+FUCK.AAAAAAA.Name = "AAAAAAA"
+FUCK.AAAAAAA.Parent = FUCK.ZHH
+
+FUCK.AAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAA.Text = "AXAXAX"
+FUCK.AAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_11.Parent = FUCK.AAAAAAA
+
+FUCK.AAAAAAAAA.Name = "AAAAAAAAA"
+FUCK.AAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAA.Text = "XAXAXAXA"
+FUCK.AAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_12.Parent = FUCK.AAAAAAAAA
+
+FUCK.AAAAAAAAAAA.Name = "AAAAAAAAAAA"
+FUCK.AAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAA.Text = "AXAXAXA"
+FUCK.AAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_13.Parent = FUCK.AAAAAAAAAAA
+
+FUCK.AAAAAAAAAA.Name = "AAAAAAAAAA"
+FUCK.AAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAA.Text = "XAXAXAX"
+FUCK.AAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_14.Parent = FUCK.AAAAAAAAAA
+
+FUCK.AAAAAAAAAAAA.Name = "AAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAA.Text = "XAXAXAX"
+FUCK.AAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_15.Parent = FUCK.AAAAAAAAAAAA
+
+FUCK.AAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAA.Text = "AXAXAA"
+FUCK.AAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_16.Parent = FUCK.AAAAAAAAAAAAAA
+
+FUCK.AAAAAAAAAAAAA.Name = "AAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAA.Text = "AXAXAXA"
+FUCK.AAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_17.Parent = FUCK.AAAAAAAAAAAAA
+
+FUCK.AAAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAAA.Text = "XAXAXAXAX"
+FUCK.AAAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_18.Parent = FUCK.AAAAAAAAAAAAAAA
+
+FUCK.AAAAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAAAA.Text = "AXXXAX"
+FUCK.AAAAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAAAA.TextSize = 14.000
+
+FUCK.UICorner_19.Parent = FUCK.AAAAAAAAAAAAAAAA
+
+FUCK.AAAAAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAAAAA.Text = "AXAXAXAX"
+FUCK.AAAAAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAAAAA.TextSize = 14.000
+FUCK.UICorner_20.Parent = FUCK.AAAAAAAAAAAAAAAAA
+FUCK.AAAAAAAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAAAAAAA.Text = "XAAXAXAX"
+FUCK.AAAAAAAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAAAAAAA.TextSize = 14.000
+FUCK.UICorner_21.Parent = FUCK.AAAAAAAAAAAAAAAAAAA
+FUCK.AAAAAAAAAAAAAAAAAA.Name = "AAAAAAAAAAAAAAAAAA"
+FUCK.AAAAAAAAAAAAAAAAAA.Parent = FUCK.ZHH
+FUCK.AAAAAAAAAAAAAAAAAA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.AAAAAAAAAAAAAAAAAA.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.AAAAAAAAAAAAAAAAAA.Size = UDim2.new(0, 72, 0, 32)
+FUCK.AAAAAAAAAAAAAAAAAA.Font = Enum.Font.SourceSans
+FUCK.AAAAAAAAAAAAAAAAAA.Text = "XAXAX"
+FUCK.AAAAAAAAAAAAAAAAAA.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.AAAAAAAAAAAAAAAAAA.TextSize = 14.000
+FUCK.UICorner_22.Parent = FUCK.AAAAAAAAAAAAAAAAAA
+FUCK.S.Name = "S"
+FUCK.S.Parent = FUCK.ZHH
+FUCK.S.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.S.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.S.Size = UDim2.new(0, 72, 0, 32)
+FUCK.S.Font = Enum.Font.SourceSans
+FUCK.S.Text = "XAAXAX"
+FUCK.S.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.S.TextSize = 14.000
+FUCK.UICorner_23.Parent = FUCK.S
+FUCK.SS.Name = "SS"
+FUCK.SS.Parent = FUCK.ZHH
+FUCK.SS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SS.Font = Enum.Font.SourceSans
+FUCK.SS.Text = "XAAXAXA"
+FUCK.SS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SS.TextSize = 14.000
+FUCK.UICorner_24.Parent = FUCK.SS
+FUCK.SSS.Name = "SSS"
+FUCK.SSS.Parent = FUCK.ZHH
+FUCK.SSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSS.Font = Enum.Font.SourceSans
+FUCK.SSS.Text = "AXAXAX"
+FUCK.SSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSS.TextSize = 14.000
+FUCK.UICorner_25.Parent = FUCK.SSS
+FUCK.SSSS.Name = "SSSS"
+FUCK.SSSS.Parent = FUCK.ZHH
+FUCK.SSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSS.Font = Enum.Font.SourceSans
+FUCK.SSSS.Text = "AXAXAXA"
+FUCK.SSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSS.TextSize = 14.000
+FUCK.UICorner_26.Parent = FUCK.SSSS
+--优化小希
+FUCK.FUCKNOOB.MouseButton1Down:Connect(function()
+local ZHH = FUCK.ZHH	
+local FUCKNOOB = FUCK.FUCKNOOB
+ZHH.Visible = not ZHH.Visible
+if ZHH.Visible == false then
+FUCKNOOB.Text="+"
+else
+FUCKNOOB.Text="-"
+end	end)
+local fly=FUCK.AAAAAA
+fly.MouseButton1Down:Connect(function()
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")() end)
+local ferry=FUCK.AAAAAAA
+ferry.MouseButton1Down:Connect(function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/D46E1PYw'),true))() end)
+local lol=FUCK.AAAA
+lol.MouseButton1Down:Connect(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zhanghuihuihuil/Script/main/%E4%BC%90%E6%9C%A8%E5%88%B7%E9%92%B1%E8%84%9A%E6%9C%AC", true))() end)
+local hannyonms = FUCK.AAAAA
+hannyonms.MouseButton1Down:Connect(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zhanghuihuihuil/-/main/%E6%B1%89%E6%81%A9%E5%8E%9F%E7%89%88", true))() end)
+local alphadrop=FUCK.AAA
+alphadrop.MouseButton1Down:Connect(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zhanghuihuihuil/Script/main/Alpha%20Drop2", true))() end)
+local bark = FUCK.AA
+bark.MouseButton1Down:Connect(function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zhanghuihuihuil/HONGV4/main/Bark2.0"))() end)
+local zmgh=FUCK.A
+zmgh.MouseButton1Down:Connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/9U79wwvB"))("https://pastebin.com/MWzrsbvb") end)
+--小希结束
+FUCK.SSSSSS.Name = "SSSSSS"
+FUCK.SSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSS.Text = "AXAXAAXA"
+FUCK.SSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSS.TextSize = 14.000
+FUCK.UICorner_27.Parent = FUCK.SSSSSS
+FUCK.SSSSS.Name = "SSSSS"
+FUCK.SSSSS.Parent = FUCK.ZHH
+FUCK.SSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSS.Text = "XAAXAXA"
+FUCK.SSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSS.TextSize = 14.000
+FUCK.UICorner_28.Parent = FUCK.SSSSS
+FUCK.SSSSSSS.Name = "SSSSSSS"
+FUCK.SSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSS.Text = "AXAXAXAXA"
+FUCK.SSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSS.TextSize = 14.000
+FUCK.UICorner_29.Parent = FUCK.SSSSSSS
+FUCK.SSSSSSSSS.Name = "SSSSSSSSS"
+FUCK.SSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSS.Text = "XAAXAXAX"
+FUCK.SSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_30.Parent = FUCK.SSSSSSSSS
+FUCK.SSSSSSSS.Name = "SSSSSSSS"
+FUCK.SSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSS.Text = "AXAXAXX"
+FUCK.SSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSS.TextSize = 14.000
+FUCK.UICorner_31.Parent = FUCK.SSSSSSSS
+FUCK.SSSSSSSSSS.Name = "SSSSSSSSSS"
+FUCK.SSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSS.Text = "XAAXAXAXA"
+FUCK.SSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_32.Parent = FUCK.SSSSSSSSSS
+FUCK.SSSSSSSSSSS.Name = "SSSSSSSSSSS"
+FUCK.SSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSS.Text = "XAAXAXAXA"
+FUCK.SSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_33.Parent = FUCK.SSSSSSSSSSS
+FUCK.SSSSSSSSSSSS.Name = "SSSSSSSSSSSS"
+FUCK.SSSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSSS.Text = "XAXAXAXAX"
+FUCK.SSSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_34.Parent = FUCK.SSSSSSSSSSSS
+FUCK.SSSSSSSSSSSSS.Name = "SSSSSSSSSSSSS"
+FUCK.SSSSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSSSS.Text = "XAAXAXAXA"
+FUCK.SSSSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_35.Parent = FUCK.SSSSSSSSSSSSS
+FUCK.SSSSSSSSSSSSSSS.Name = "SSSSSSSSSSSSSSS"
+FUCK.SSSSSSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSSSSSS.Text = "XAAXAXAXA"
+FUCK.SSSSSSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_36.Parent = FUCK.SSSSSSSSSSSSSSS
+FUCK.SSSSSSSSSSSSSS.Name = "SSSSSSSSSSSSSS"
+FUCK.SSSSSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSSSSS.Text = "XAAXAXAXXA"
+FUCK.SSSSSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_37.Parent = FUCK.SSSSSSSSSSSSSS
+FUCK.SSSSSSSSSSSSSSSS.Name = "SSSSSSSSSSSSSSSS"
+FUCK.SSSSSSSSSSSSSSSS.Parent = FUCK.ZHH
+FUCK.SSSSSSSSSSSSSSSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.SSSSSSSSSSSSSSSS.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.SSSSSSSSSSSSSSSS.Size = UDim2.new(0, 72, 0, 32)
+FUCK.SSSSSSSSSSSSSSSS.Font = Enum.Font.SourceSans
+FUCK.SSSSSSSSSSSSSSSS.Text = "AXAXAXAX"
+FUCK.SSSSSSSSSSSSSSSS.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.SSSSSSSSSSSSSSSS.TextSize = 14.000
+FUCK.UICorner_38.Parent = FUCK.SSSSSSSSSSSSSSSS
+FUCK.BB.Name = "BB"
+FUCK.BB.Parent = FUCK.ZHH
+FUCK.BB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BB.Font = Enum.Font.SourceSans
+FUCK.BB.Text = "XAAXAX"
+FUCK.BB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BB.TextSize = 14.000
+FUCK.UICorner_39.Parent = FUCK.BB
+FUCK.B.Name = "B"
+FUCK.B.Parent = FUCK.ZHH
+FUCK.B.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.B.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.B.Size = UDim2.new(0, 72, 0, 32)
+FUCK.B.Font = Enum.Font.SourceSans
+FUCK.B.Text = "AXAXAX"
+FUCK.B.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.B.TextSize = 14.000
+FUCK.UICorner_40.Parent = FUCK.B
+FUCK.BBB.Name = "BBB"
+FUCK.BBB.Parent = FUCK.ZHH
+FUCK.BBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBB.Font = Enum.Font.SourceSans
+FUCK.BBB.Text = "WW"
+FUCK.BBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBB.TextSize = 14.000
+FUCK.UICorner_41.Parent = FUCK.BBB
+FUCK.BBBB.Name = "BBBB"
+FUCK.BBBB.Parent = FUCK.ZHH
+FUCK.BBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBB.Font = Enum.Font.SourceSans
+FUCK.BBBB.Text = "WWWWWWWW"
+FUCK.BBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBB.TextSize = 14.000
+FUCK.UICorner_42.Parent = FUCK.BBBB
+FUCK.BBBBB.Name = "BBBBB"
+FUCK.BBBBB.Parent = FUCK.ZHH
+FUCK.BBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBB.Text = "WWWWWW"
+FUCK.BBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBB.TextSize = 14.000
+FUCK.UICorner_43.Parent = FUCK.BBBBB
+FUCK.BBBBBB.Name = "BBBBBB"
+FUCK.BBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBB.Text = "WWWW"
+FUCK.BBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBB.TextSize = 14.000
+FUCK.UICorner_44.Parent = FUCK.BBBBBB
+FUCK.BBBBBBBB.Name = "BBBBBBBB"
+FUCK.BBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBB.Text = "WWWWWWW"
+FUCK.BBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBB.TextSize = 14.000
+FUCK.UICorner_45.Parent = FUCK.BBBBBBBB
+FUCK.BBBBBBB.Name = "BBBBBBB"
+FUCK.BBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBB.Text = "WWWWWWWWW"
+FUCK.BBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBB.TextSize = 14.000
+FUCK.UICorner_46.Parent = FUCK.BBBBBBB
+FUCK.BBBBBBBBB.Name = "BBBBBBBBB"
+FUCK.BBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBB.Text = "DDDDDDD"
+FUCK.BBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_47.Parent = FUCK.BBBBBBBBB
+
+FUCK.BBBBBBBBBBB.Name = "BBBBBBBBBBB"
+FUCK.BBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBB.Text = "DCDCDC"
+FUCK.BBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_48.Parent = FUCK.BBBBBBBBBBB
+
+FUCK.BBBBBBBBBB.Name = "BBBBBBBBBB"
+FUCK.BBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBB.Text = "DDDDDDDDD"
+FUCK.BBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_49.Parent = FUCK.BBBBBBBBBB
+
+FUCK.BBBBBBBBBBBB.Name = "BBBBBBBBBBBB"
+FUCK.BBBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBBB.Text = "VDSVDSV"
+FUCK.BBBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_50.Parent = FUCK.BBBBBBBBBBBB
+
+FUCK.BBBBBBBBBBBBB.Name = "BBBBBBBBBBBBB"
+FUCK.BBBBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBBBB.Text = "VSVDSVDSV"
+FUCK.BBBBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_51.Parent = FUCK.BBBBBBBBBBBBB
+
+FUCK.BBBBBBBBBBBBBB.Name = "BBBBBBBBBBBBBB"
+FUCK.BBBBBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBBBBB.Text = "VDSVDSVSDV"
+FUCK.BBBBBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_52.Parent = FUCK.BBBBBBBBBBBBBB
+
+FUCK.BBBBBBBBBBBBBBB.Name = "BBBBBBBBBBBBBBB"
+FUCK.BBBBBBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBBBBBB.Text = "VDSDSVSDV"
+FUCK.BBBBBBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_53.Parent = FUCK.BBBBBBBBBBBBBBB
+
+FUCK.Z.Name = "Z"
+FUCK.Z.Parent = FUCK.ZHH
+FUCK.Z.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.Z.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.Z.Size = UDim2.new(0, 72, 0, 32)
+FUCK.Z.Font = Enum.Font.SourceSans
+FUCK.Z.Text = "DVS"
+FUCK.Z.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.Z.TextSize = 14.000
+
+FUCK.UICorner_54.Parent = FUCK.Z
+
+FUCK.BBBBBBBBBBBBBBBB.Name = "BBBBBBBBBBBBBBBB"
+FUCK.BBBBBBBBBBBBBBBB.Parent = FUCK.ZHH
+FUCK.BBBBBBBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.BBBBBBBBBBBBBBBB.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.BBBBBBBBBBBBBBBB.Size = UDim2.new(0, 72, 0, 32)
+FUCK.BBBBBBBBBBBBBBBB.Font = Enum.Font.SourceSans
+FUCK.BBBBBBBBBBBBBBBB.Text = "SDVDSVSDVDSV"
+FUCK.BBBBBBBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.BBBBBBBBBBBBBBBB.TextSize = 14.000
+
+FUCK.UICorner_55.Parent = FUCK.BBBBBBBBBBBBBBBB
+
+FUCK.ZZ.Name = "ZZ"
+FUCK.ZZ.Parent = FUCK.ZHH
+FUCK.ZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZ.Font = Enum.Font.SourceSans
+FUCK.ZZ.Text = "VDSDV"
+FUCK.ZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZ.TextSize = 14.000
+
+FUCK.UICorner_56.Parent = FUCK.ZZ
+
+FUCK.ZZZZ.Name = "ZZZZ"
+FUCK.ZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZ.Text = "DVDS"
+FUCK.ZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZ.TextSize = 14.000
+
+FUCK.UICorner_57.Parent = FUCK.ZZZZ
+
+FUCK.ZZZ.Name = "ZZZ"
+FUCK.ZZZ.Parent = FUCK.ZHH
+FUCK.ZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZ.Text = "VDS"
+FUCK.ZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZ.TextSize = 14.000
+
+FUCK.UICorner_58.Parent = FUCK.ZZZ
+
+FUCK.ZZZZZ.Name = "ZZZZZ"
+FUCK.ZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZ.Text = "SVDDV"
+FUCK.ZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_59.Parent = FUCK.ZZZZZ
+
+FUCK.ZZZZZZZ.Name = "ZZZZZZZ"
+FUCK.ZZZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZZZ.Text = "VDSSDVDS"
+FUCK.ZZZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_60.Parent = FUCK.ZZZZZZZ
+
+FUCK.ZZZZZZ.Name = "ZZZZZZ"
+FUCK.ZZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZZ.Text = "VDSSVDS"
+FUCK.ZZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_61.Parent = FUCK.ZZZZZZ
+
+FUCK.ZZZZZZZZ.Name = "ZZZZZZZZ"
+FUCK.ZZZZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZZZZ.Text = "VSDVD"
+FUCK.ZZZZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_62.Parent = FUCK.ZZZZZZZZ
+
+FUCK.ZZZZZZZZZZ.Name = "ZZZZZZZZZZ"
+FUCK.ZZZZZZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZZZZZZ.Text = "VDSDVDSV"
+FUCK.ZZZZZZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_63.Parent = FUCK.ZZZZZZZZZZ
+
+FUCK.ZZZZZZZZZ.Name = "ZZZZZZZZZ"
+FUCK.ZZZZZZZZZ.Parent = FUCK.ZHH
+FUCK.ZZZZZZZZZ.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.ZZZZZZZZZ.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.ZZZZZZZZZ.Size = UDim2.new(0, 72, 0, 32)
+FUCK.ZZZZZZZZZ.Font = Enum.Font.SourceSans
+FUCK.ZZZZZZZZZ.Text = "VDSSDVDSV"
+FUCK.ZZZZZZZZZ.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.ZZZZZZZZZ.TextSize = 14.000
+
+FUCK.UICorner_64.Parent = FUCK.ZZZZZZZZZ
+
+FUCK.H.Name = "H"
+FUCK.H.Parent = FUCK.ZHH
+FUCK.H.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.H.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.H.Size = UDim2.new(0, 72, 0, 32)
+FUCK.H.Font = Enum.Font.SourceSans
+FUCK.H.Text = "VDDSVD"
+FUCK.H.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.H.TextSize = 14.000
+
+FUCK.UICorner_65.Parent = FUCK.H
+
+FUCK.HH.Name = "HH"
+FUCK.HH.Parent = FUCK.ZHH
+FUCK.HH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HH.Font = Enum.Font.SourceSans
+FUCK.HH.Text = "VDSDVDSV"
+FUCK.HH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HH.TextSize = 14.000
+
+FUCK.UICorner_66.Parent = FUCK.HH
+
+FUCK.HHH.Name = "HHH"
+FUCK.HHH.Parent = FUCK.ZHH
+FUCK.HHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHH.Font = Enum.Font.SourceSans
+FUCK.HHH.Text = "VDSVDSV"
+FUCK.HHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHH.TextSize = 14.000
+
+FUCK.UICorner_67.Parent = FUCK.HHH
+
+FUCK.HHHH.Name = "HHHH"
+FUCK.HHHH.Parent = FUCK.ZHH
+FUCK.HHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHH.Font = Enum.Font.SourceSans
+FUCK.HHHH.Text = "FEDED"
+FUCK.HHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHH.TextSize = 14.000
+
+FUCK.UICorner_68.Parent = FUCK.HHHH
+
+FUCK.HHHHH.Name = "HHHHH"
+FUCK.HHHHH.Parent = FUCK.ZHH
+FUCK.HHHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHHH.Font = Enum.Font.SourceSans
+FUCK.HHHHH.Text = "EFCC"
+FUCK.HHHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHHH.TextSize = 14.000
+
+FUCK.UICorner_69.Parent = FUCK.HHHHH
+
+FUCK.HHHHHHH.Name = "HHHHHHH"
+FUCK.HHHHHHH.Parent = FUCK.ZHH
+FUCK.HHHHHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHHHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHHHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHHHHH.Font = Enum.Font.SourceSans
+FUCK.HHHHHHH.Text = "DWXCDWC"
+FUCK.HHHHHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHHHHH.TextSize = 14.000
+
+FUCK.UICorner_70.Parent = FUCK.HHHHHHH
+
+FUCK.HHHHHHHH.Name = "HHHHHHHH"
+FUCK.HHHHHHHH.Parent = FUCK.ZHH
+FUCK.HHHHHHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHHHHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHHHHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHHHHHH.Font = Enum.Font.SourceSans
+FUCK.HHHHHHHH.Text = "WDXWC"
+FUCK.HHHHHHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHHHHHH.TextSize = 14.000
+
+FUCK.UICorner_71.Parent = FUCK.HHHHHHHH
+
+FUCK.HHHHHHHHH.Name = "HHHHHHHHH"
+FUCK.HHHHHHHHH.Parent = FUCK.ZHH
+FUCK.HHHHHHHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHHHHHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHHHHHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHHHHHHH.Font = Enum.Font.SourceSans
+FUCK.HHHHHHHHH.Text = "WDXX"
+FUCK.HHHHHHHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHHHHHHH.TextSize = 14.000
+
+FUCK.UICorner_72.Parent = FUCK.HHHHHHHHH
+
+FUCK.U.Name = "U"
+FUCK.U.Parent = FUCK.ZHH
+FUCK.U.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.U.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.U.Size = UDim2.new(0, 72, 0, 32)
+FUCK.U.Font = Enum.Font.SourceSans
+FUCK.U.Text = "WDXD"
+FUCK.U.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.U.TextSize = 14.000
+
+FUCK.UICorner_73.Parent = FUCK.U
+
+FUCK.HHHHHHHHHH.Name = "HHHHHHHHHH"
+FUCK.HHHHHHHHHH.Parent = FUCK.ZHH
+FUCK.HHHHHHHHHH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.HHHHHHHHHH.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.HHHHHHHHHH.Size = UDim2.new(0, 72, 0, 32)
+FUCK.HHHHHHHHHH.Font = Enum.Font.SourceSans
+FUCK.HHHHHHHHHH.Text = "XDWXDW"
+FUCK.HHHHHHHHHH.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.HHHHHHHHHH.TextSize = 14.000
+
+FUCK.UICorner_74.Parent = FUCK.HHHHHHHHHH
+
+FUCK.UU.Name = "UU"
+FUCK.UU.Parent = FUCK.ZHH
+FUCK.UU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UU.Font = Enum.Font.SourceSans
+FUCK.UU.Text = "CWDC"
+FUCK.UU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UU.TextSize = 14.000
+
+FUCK.UICorner_75.Parent = FUCK.UU
+
+FUCK.UUUU.Name = "UUUU"
+FUCK.UUUU.Parent = FUCK.ZHH
+FUCK.UUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUU.Font = Enum.Font.SourceSans
+FUCK.UUUU.Text = "FCSCF"
+FUCK.UUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUU.TextSize = 14.000
+
+FUCK.UICorner_76.Parent = FUCK.UUUU
+
+FUCK.UUU.Name = "UUU"
+FUCK.UUU.Parent = FUCK.ZHH
+FUCK.UUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUU.Font = Enum.Font.SourceSans
+FUCK.UUU.Text = "DC"
+FUCK.UUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUU.TextSize = 14.000
+
+FUCK.UICorner_77.Parent = FUCK.UUU
+
+FUCK.UUUUU.Name = "UUUUU"
+FUCK.UUUUU.Parent = FUCK.ZHH
+FUCK.UUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUU.Text = "CFV"
+FUCK.UUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUU.TextSize = 14.000
+
+FUCK.UICorner_78.Parent = FUCK.UUUUU
+
+FUCK.UUUUUUU.Name = "UUUUUUU"
+FUCK.UUUUUUU.Parent = FUCK.ZHH
+FUCK.UUUUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUUUU.Text = "DXD"
+FUCK.UUUUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUUUU.TextSize = 14.000
+
+FUCK.UICorner_79.Parent = FUCK.UUUUUUU
+
+FUCK.UUUUUU.Name = "UUUUUU"
+FUCK.UUUUUU.Parent = FUCK.ZHH
+FUCK.UUUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUUU.Text = "SXDSDC"
+FUCK.UUUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUUU.TextSize = 14.000
+
+FUCK.UICorner_80.Parent = FUCK.UUUUUU
+
+FUCK.UUUUUUUU.Name = "UUUUUUUU"
+FUCK.UUUUUUUU.Parent = FUCK.ZHH
+FUCK.UUUUUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUUUUU.Text = "SDC F"
+FUCK.UUUUUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUUUUU.TextSize = 14.000
+
+FUCK.UICorner_81.Parent = FUCK.UUUUUUUU
+
+FUCK.UUUUUUUUUU.Name = "UUUUUUUUUU"
+FUCK.UUUUUUUUUU.Parent = FUCK.ZHH
+FUCK.UUUUUUUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUUUUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUUUUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUUUUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUUUUUUU.Text = "DXSC"
+FUCK.UUUUUUUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUUUUUUU.TextSize = 14.000
+
+FUCK.UICorner_82.Parent = FUCK.UUUUUUUUUU
+
+FUCK.UUUUUUUUU.Name = "UUUUUUUUU"
+FUCK.UUUUUUUUU.Parent = FUCK.ZHH
+FUCK.UUUUUUUUU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.UUUUUUUUU.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.UUUUUUUUU.Size = UDim2.new(0, 72, 0, 32)
+FUCK.UUUUUUUUU.Font = Enum.Font.SourceSans
+FUCK.UUUUUUUUU.Text = "SXDF"
+FUCK.UUUUUUUUU.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.UUUUUUUUU.TextSize = 14.000
+
+FUCK.UICorner_83.Parent = FUCK.UUUUUUUUU
+
+FUCK.I.Name = "I"
+FUCK.I.Parent = FUCK.ZHH
+FUCK.I.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.I.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.I.Size = UDim2.new(0, 72, 0, 32)
+FUCK.I.Font = Enum.Font.SourceSans
+FUCK.I.Text = "VGBGDVD"
+FUCK.I.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.I.TextSize = 14.000
+
+FUCK.UICorner_84.Parent = FUCK.I
+
+FUCK.III.Name = "III"
+FUCK.III.Parent = FUCK.ZHH
+FUCK.III.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.III.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.III.Size = UDim2.new(0, 72, 0, 32)
+FUCK.III.Font = Enum.Font.SourceSans
+FUCK.III.Text = "GDVGVBG"
+FUCK.III.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.III.TextSize = 14.000
+
+FUCK.UICorner_85.Parent = FUCK.III
+
+FUCK.II.Name = "II"
+FUCK.II.Parent = FUCK.ZHH
+FUCK.II.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.II.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.II.Size = UDim2.new(0, 72, 0, 32)
+FUCK.II.Font = Enum.Font.SourceSans
+FUCK.II.Text = "DVGD"
+FUCK.II.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.II.TextSize = 14.000
+
+FUCK.UICorner_86.Parent = FUCK.II
+
+FUCK.IIII.Name = "IIII"
+FUCK.IIII.Parent = FUCK.ZHH
+FUCK.IIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIII.Font = Enum.Font.SourceSans
+FUCK.IIII.Text = "DVGD"
+FUCK.IIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIII.TextSize = 14.000
+
+FUCK.UICorner_87.Parent = FUCK.IIII
+
+FUCK.IIIII.Name = "IIIII"
+FUCK.IIIII.Parent = FUCK.ZHH
+FUCK.IIIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIII.Font = Enum.Font.SourceSans
+FUCK.IIIII.Text = "GDVD"
+FUCK.IIIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIII.TextSize = 14.000
+
+FUCK.UICorner_88.Parent = FUCK.IIIII
+
+FUCK.IIIIIII.Name = "IIIIIII"
+FUCK.IIIIIII.Parent = FUCK.ZHH
+FUCK.IIIIIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIII.Font = Enum.Font.SourceSans
+FUCK.IIIIIII.Text = "DGB"
+FUCK.IIIIIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIII.TextSize = 14.000
+
+FUCK.UICorner_89.Parent = FUCK.IIIIIII
+
+FUCK.IIIIII.Name = "IIIIII"
+FUCK.IIIIII.Parent = FUCK.ZHH
+FUCK.IIIIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIII.Font = Enum.Font.SourceSans
+FUCK.IIIIII.Text = "DGB"
+FUCK.IIIIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIII.TextSize = 14.000
+
+FUCK.UICorner_90.Parent = FUCK.IIIIII
+
+FUCK.IIIIIIII.Name = "IIIIIIII"
+FUCK.IIIIIIII.Parent = FUCK.ZHH
+FUCK.IIIIIIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIII.Font = Enum.Font.SourceSans
+FUCK.IIIIIIII.Text = "GBGDB"
+FUCK.IIIIIIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIII.TextSize = 14.000
+
+FUCK.UICorner_91.Parent = FUCK.IIIIIIII
+
+FUCK.IIIIIIIII.Name = "IIIIIIIII"
+FUCK.IIIIIIIII.Parent = FUCK.ZHH
+FUCK.IIIIIIIII.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII.Text = "GDBGDB"
+FUCK.IIIIIIIII.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII.TextSize = 14.000
+
+FUCK.UICorner_92.Parent = FUCK.IIIIIIIII
+
+FUCK.IIIIIIIII_2.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_2.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_2.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_2.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_2.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_2.Text = "GDBGDB"
+FUCK.IIIIIIIII_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_2.TextSize = 14.000
+
+FUCK.UICorner_93.Parent = FUCK.IIIIIIIII_2
+
+FUCK.IIIIIIIII_3.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_3.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_3.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_3.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_3.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_3.Text = "GDBGDB"
+FUCK.IIIIIIIII_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_3.TextSize = 14.000
+
+FUCK.UICorner_94.Parent = FUCK.IIIIIIIII_3
+
+FUCK.IIIIIIIII_4.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_4.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_4.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_4.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_4.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_4.Text = "GDBGDB"
+FUCK.IIIIIIIII_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_4.TextSize = 14.000
+
+FUCK.UICorner_95.Parent = FUCK.IIIIIIIII_4
+
+FUCK.IIIIIIIII_5.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_5.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_5.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_5.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_5.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_5.Text = "GDBGDB"
+FUCK.IIIIIIIII_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_5.TextSize = 14.000
+
+FUCK.UICorner_96.Parent = FUCK.IIIIIIIII_5
+
+FUCK.IIIIIIIII_6.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_6.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_6.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_6.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_6.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_6.Text = "GDBGDB"
+FUCK.IIIIIIIII_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_6.TextSize = 14.000
+
+FUCK.UICorner_97.Parent = FUCK.IIIIIIIII_6
+
+FUCK.IIIIIIIII_7.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_7.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_7.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_7.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_7.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_7.Text = "GDBGDB"
+FUCK.IIIIIIIII_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_7.TextSize = 14.000
+
+FUCK.UICorner_98.Parent = FUCK.IIIIIIIII_7
+
+FUCK.IIIIIIIII_8.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_8.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_8.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_8.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_8.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_8.Text = "GDBGDB"
+FUCK.IIIIIIIII_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_8.TextSize = 14.000
+
+FUCK.UICorner_99.Parent = FUCK.IIIIIIIII_8
+
+FUCK.IIIIIIIII_9.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_9.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_9.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_9.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_9.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_9.Text = "GDBGDB"
+FUCK.IIIIIIIII_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_9.TextSize = 14.000
+
+FUCK.UICorner_100.Parent = FUCK.IIIIIIIII_9
+
+FUCK.IIIIIIIII_10.Name = "IIIIIIIII"
+FUCK.IIIIIIIII_10.Parent = FUCK.ZHH
+FUCK.IIIIIIIII_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FUCK.IIIIIIIII_10.Position = UDim2.new(0.0921175703, 0, -5.3917983e-08, 0)
+FUCK.IIIIIIIII_10.Size = UDim2.new(0, 72, 0, 32)
+FUCK.IIIIIIIII_10.Font = Enum.Font.SourceSans
+FUCK.IIIIIIIII_10.Text = "GDBGDB"
+FUCK.IIIIIIIII_10.TextColor3 = Color3.fromRGB(0, 0, 0)
+FUCK.IIIIIIIII_10.TextSize = 14.000
+
+FUCK.UICorner_101.Parent = FUCK.IIIIIIIII_10
